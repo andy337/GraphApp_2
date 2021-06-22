@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.exe.config
+C:\Users\Admin\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.exe
+C:\Users\Admin\source\repos\GraphApp\GraphApp\bin\Debug\GraphApp.pdb
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.Form1.resources
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.exe
+C:\Users\Admin\source\repos\GraphApp\GraphApp\obj\Debug\GraphApp.pdb
